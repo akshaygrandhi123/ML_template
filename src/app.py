@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 from PIL import Image
-from utils import load_config
+from src.utils import load_config
 from prediction import Prediction
 
 
